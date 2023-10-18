@@ -12,11 +12,16 @@ Hi! I'm an Assistant Professor (RTD-A) of Computer Science at Ca' Foscari Univer
 # Conference Publications
 
 
-* Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti, Nicola Prezza. *Optimal Wheeler Language Recognition.* 30th International Symposium on String Processing and Information Retrieval (**SPIRE 2023**).
+* Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti, Nicola Prezza. 
+*Optimal Wheeler Language Recognition.* 
+30th International Symposium on String Processing and Information Retrieval (**SPIRE 2023**).
 
-* Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. *Sorting Finite Automata via Partition Refinement.* 31st European Symposium on Algorithms (**ESA 2023**).
+* Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. 
+*Sorting Finite Automata via Partition Refinement.* 
+31st European Symposium on Algorithms (**ESA 2023**).
 
-* Ruben Becker, Arnaud Casteigts, Pierluigi Crescenzi, Bojana Kodric, Michael Raskin, Malte Renken, Viktor Zamaraev. *Giant Components in Random Temporal Graphs.* International Conference on Randomization and Computation (**RANDOM 2023**).
+* Ruben Becker, Arnaud Casteigts, Pierluigi Crescenzi, Bojana Kodric, Michael Raskin, Malte Renken, Viktor Zamaraev. 
+*Giant Components in Random Temporal Graphs.* International Conference on Randomization and Computation (**RANDOM 2023**).
 
 * Ruben Becker, Pierluigi Crescenzi, Antonio Cruciani, Bojana Kodric. *Proxying Betweenness Centrality Rankings in Temporal Networks.* 21st Symposium on Experimental Algorithms (**SEA 2023**).
 
