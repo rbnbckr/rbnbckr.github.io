@@ -23,11 +23,15 @@ Hi! I'm an Assistant Professor (RTD-A) of Computer Science at Ca' Foscari Univer
 * Ruben Becker, Arnaud Casteigts, Pierluigi Crescenzi, Bojana Kodric, Michael Raskin, Malte Renken, Viktor Zamaraev. 
 *Giant Components in Random Temporal Graphs.* International Conference on Randomization and Computation (**RANDOM 2023**).
 
-* Ruben Becker, Pierluigi Crescenzi, Antonio Cruciani, Bojana Kodric. *Proxying Betweenness Centrality Rankings in Temporal Networks.* 21st Symposium on Experimental Algorithms (**SEA 2023**).
+* Ruben Becker, Pierluigi Crescenzi, Antonio Cruciani, Bojana Kodric. 
+*Proxying Betweenness Centrality Rankings in Temporal Networks.* 
+21st Symposium on Experimental Algorithms (**SEA 2023**).
 
-* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi. *Improving Fairness in Information Exposure by Adding Links.* 37th AAAI Conference on Artificial Intelligence (**AAAI 2023**).
+* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi. *Improving Fairness in Information Exposure by Adding Links.*
+37th AAAI Conference on Artificial Intelligence (**AAAI 2023**).
 
-* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi. *On the Cost of Demographic Parity in Influence Maximization.*
+* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi. 
+*On the Cost of Demographic Parity in Influence Maximization.*
 37th AAAI Conference on Artificial Intelligence (**AAAI 2023**).
 
 * Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert. *Fairness in Influence Maximization through Randomization.* 35th AAAI Conference on Artificial Intelligence (**AAAI 2021**).
