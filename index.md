@@ -9,8 +9,26 @@ layout: default
 Hi! I'm an Assistant Professor (RTD-A) of Computer Science at Ca' Foscari University of Venice. My research interests revolve around the topics algorithms, graphs, and randomness. I hold a PhD degree from Saarland University (Germany). While being a doctoral student (2014-2018) I was a member of the Algorithms and Complexity department at Max Planck Institute for Informatics that was then headed by Prof. Kurt Mehlhorn. Thereafter, I was a Postdoctoral researcher in the Computer Science department of the Gran Sasso Science Institute in L'Aquila, Italy (2018-2022) until I joined Ca' Foscari University of Venice in November 2022.
 
 
-# Conference Publications
+# Journal Publications
 
+* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*
+SIAM Journal on Computing (**SICOMP**). 2024. To Appear.
+
+* Ruben Becker, Michael Sagraloff. *Counting Solutions of a Polynomial System Locally and Exactly.*
+Journal of Symbolic Computation (**JSC**), 2023.
+
+* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert. *Fairness in Influence Maximization through Randomization.*
+Journal of Artificial Intelligence Research (**JAIR**). 2022.
+
+* Ruben Becker, Andreas Karrenbauer, Sebastian Krinninger, Christoph Lenzen. *Near-Optimal Approximate Shortest Paths and Transshipment in Distributed and Streaming Models.*
+SIAM Journal on Computing (**SICOMP**). 2021.
+
+* Ruben Becker, Vincenzo Bonifaci, Andreas Karrenbauer, Pavel Kolev, Kurt Mehlhorn. *Two Results on Slime Mold Computations.* Theoretical Computer Science (**TCS-C**), 2019.
+
+* Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap. *A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.* Journal of Symbolic Computation (**JSC**), 2018.
+
+
+# Conference Publications
 
 * Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti, Nicola Prezza. 
 *Optimal Wheeler Language Recognition.* 
@@ -62,19 +80,16 @@ Hi! I'm an Assistant Professor (RTD-A) of Computer Science at Ca' Foscari Univer
 
 * Ruben Becker, Andreas Karrenbauer. *A Simple Efficient Interior Point Method for Min-Cost Flow.* 25th International Symposium on Algorithms and Computation (**ISAAC 2014**).
 
+# Brief Peer-Reviewed Contributions
 
+* Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti, Nicola Prezza.
+*Testing Wheelerness of Regular Languages.* 
+24th Italian Conference on Theoretical Computer Science (**ICTCS 2023**)
 
-# Journal Publications
+* Ralf Wimmer, Andreas Karrenbauer, Ruben Becker, Christoph Scholl, Bernd Becker.
+*From DQBF to QBF by Dependency Elimination.* 
+Methoden und Beschreibungssprachen zur Modellierung und Verifikation von Schaltungen und Systemen (**MBMV 2018**)
 
-* Ruben Becker, Michael Sagraloff. *Counting Solutions of a Polynomial System Locally and Exactly.*
-Journal of Symbolic Computation (**JSC**), 2023.
-
-* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert. *Fairness in Influence Maximization through Randomization.*
-Journal of Artificial Intelligence Research (**JAIR**). 2022.
-
-* Ruben Becker, Andreas Karrenbauer, Sebastian Krinninger, Christoph Lenzen. *Near-Optimal Approximate Shortest Paths and Transshipment in Distributed and Streaming Models.*
-SIAM Journal on Computing (**SICOMP**). 2021.
-
-* Ruben Becker, Vincenzo Bonifaci, Andreas Karrenbauer, Pavel Kolev, Kurt Mehlhorn. *Two Results on Slime Mold Computations.* Theoretical Computer Science (**TCS-C**), 2019.
-
-* Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap. *A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.* Journal of Symbolic Computation (**JSC**), 2018.
+* Ruben Becker.
+*Towards Efficient Combinatorial Algorithms for the Min-Cost Flow Problem.* 
+Young Researcher Workshop on Automata, Languages and Programming (**YR-ICALP 2014**)
