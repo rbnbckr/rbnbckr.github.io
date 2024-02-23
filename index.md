@@ -86,6 +86,10 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 *Testing Wheelerness of Regular Languages.* 
 24th Italian Conference on Theoretical Computer Science (**ICTCS 2023**)
 
+* Ruben Becker, Gianlorenzo D'Angelo, Hugo Gilbert.
+*Maximizing Influence-Based Group Shapley Centrality.* 
+20th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS 2021**)
+
 * Ralf Wimmer, Andreas Karrenbauer, Ruben Becker, Christoph Scholl, Bernd Becker.
 *From DQBF to QBF by Dependency Elimination.* 
 Methoden und Beschreibungssprachen zur Modellierung und Verifikation von Schaltungen und Systemen (**MBMV 2018**)
