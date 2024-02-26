@@ -6,7 +6,7 @@ permalink: /publications/
 
 # PhD thesis
 
-* Ruben Becker. *On Flows, Paths, Roots, and Zeros.* 2017. PhD thesis. Saarland University. Awarded with the Dr. Eduard Martin-Preis of the Faculty of Mathematics and Computer Science.
+* Ruben Becker. *On Flows, Paths, Roots, and Zeros.* 2017. **PhD thesis**. **Saarland University**. Awarded with the Dr. Eduard Martin-Preis of the Faculty of Mathematics and Computer Science.
 
 
 # Journal Publications
