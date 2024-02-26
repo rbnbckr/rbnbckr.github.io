@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-# PhD thesis
+## PhD thesis
 
 * Ruben Becker. *On Flows, Paths, Roots, and Zeros.* 2017. **PhD thesis**. **Saarland University**. Awarded with the Dr. Eduard Martin-Preis of the Faculty of Mathematics and Computer Science.
 
 
-# Journal Publications
+## Journal Publications
 
 * Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*
 SIAM Journal on Computing (**SICOMP**). 2024. To Appear.
@@ -28,7 +28,7 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 * Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap. *A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.* Journal of Symbolic Computation (**JSC**), 2018.
 
 
-# Conference Publications
+## Conference Publications
 
 * Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. 
 *Sorting Finite Automata via Partition Refinement.* 
@@ -80,7 +80,7 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 
 * Ruben Becker, Andreas Karrenbauer. *A Simple Efficient Interior Point Method for Min-Cost Flow.* 25th International Symposium on Algorithms and Computation (**ISAAC 2014**).
 
-# Brief Peer-Reviewed Contributions
+## Brief Peer-Reviewed Contributions
 
 * Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti, Nicola Prezza.
 *Testing Wheelerness of Regular Languages.* 

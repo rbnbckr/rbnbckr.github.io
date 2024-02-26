@@ -30,7 +30,7 @@ permalink: /teaching/
 - **Reading Group Algorithms**, co-organized with Cosimo Vinci, academic year 2020/2021
 - **Reading Group Algorithms**, academic year 2019/2020 
 
-### Max Planck Institute for Informatics, Saarbrücken, Germany
+### Max Planck Institute for Informatics and Saarland University, Saarbrücken, Germany
 - **Reading Group Algorithms**, co-organized with Kurt Mehlhorn and Emanuele Natale, summer semester 2017.
 - **Reading Group Algorithms**, co-organized with Kurt Mehlhorn, winter semester 2016.
 - **Reading Group Algorithms**, co-organized with Kurt Mehlhorn and Marvin Künnemann, summer semester 2016.
