@@ -26,10 +26,11 @@ permalink: /service/
 
 ### Conferences
 - Data Compression Conference (DCC '24)
+- International Joint Conference on Artificial Intelligence (IJCAI '24 x4)
 - European Symposium on Algorithms (ESA '23 x2 '21 '18 '17 '15)
 - Symposium on Discrete Algorithms (SODA '22 x2 '21 '17)
 - International Symposium on Symbolic and Algebraic Computation (ISSAC '22 '21 '20 '19)
-- International Conference on Autonomous Agents and Multiagent Systems (AAMAS '23 x3)
+- International Conference on Autonomous Agents and Multiagent Systems (AAMAS 24 x3 '23 x3)
 - International Conference on Algorithms and Complexity (CIAC '23)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22)
 - International Symposium on Theoretical Aspects of Computer Science (STACS '21)
