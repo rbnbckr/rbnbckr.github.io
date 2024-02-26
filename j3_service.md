@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Professional Activities
+title: Professional Activities
 permalink: /service/
 ---
 
