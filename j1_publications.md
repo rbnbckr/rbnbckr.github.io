@@ -30,6 +30,14 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 
 ## Conference Publications
 
+* Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Riccardo Maso, Nicola Prezza.
+*Random Wheeler Automata.*
+35th Annual Symposium on Combinatorial Pattern Matching (**CPM 2024**).
+
+* Ruben Becker, Matteo Canton, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.
+*Sketching and Streaming for Dictionary Compression.*
+34th Data Compression Conference (**DCC 2023**).
+
 * Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. 
 *Sorting Finite Automata via Partition Refinement.* 
 31st European Symposium on Algorithms (**ESA 2023**).

@@ -25,6 +25,7 @@ permalink: /service/
 - Computational Geometry: Theory and Applications (2015)
 
 ### Conferences
+- Symposium on Combinatorial Pattern Matching (CPM '24) 
 - Data Compression Conference (DCC '24)
 - International Joint Conference on Artificial Intelligence (IJCAI '24 x4)
 - European Symposium on Algorithms (ESA '23 x2 '21 '18 '17 '15)
@@ -41,4 +42,5 @@ permalink: /service/
 - International Conference on Foundations of Software Science and Comp.\ Structures (FoSSaCS '19)
 
 ### Grant Proposals
+- Israel Science Foundation (ISF), Personal Research Grant 2024
 - Vienna Science and Technology Fund (WWTF), Information and Communication Technology Call 2022
