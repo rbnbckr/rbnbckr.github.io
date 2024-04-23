@@ -36,7 +36,7 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 
 * Ruben Becker, Matteo Canton, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.
 *Sketching and Streaming for Dictionary Compression.*
-34th Data Compression Conference (**DCC 2023**).
+34th Data Compression Conference (**DCC 2024**).
 
 * Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. 
 *Sorting Finite Automata via Partition Refinement.* 
