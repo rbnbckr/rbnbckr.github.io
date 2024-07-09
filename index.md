@@ -27,3 +27,13 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 
 * Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap. *A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.* Journal of Symbolic Computation (**JSC**), 2018.
 
+
+<a href="https://tcs4f.org" 
+   style="display: inline-block;
+	background-color: #004b1e; border: 2px solid #CCCCCC;
+	padding: 5px; margin: 10px; border-radius: 5px;">
+	<img width="250" src="https://tcs4f.org/themes/tcs4f/img/logo_TCS4F_initiative_white_long.svg" 
+	     alt="Theoretical Computer Scientists for Future">
+</a>
+
+
