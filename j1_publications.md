@@ -12,7 +12,7 @@ permalink: /publications/
 ## Journal Publications
 
 * Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*
-SIAM Journal on Computing (**SICOMP**). 2024. To Appear.
+SIAM Journal on Computing (**SICOMP**). 2024.
 
 * Ruben Becker, Michael Sagraloff. *Counting Solutions of a Polynomial System Locally and Exactly.*
 Journal of Symbolic Computation (**JSC**), 2023.
@@ -29,6 +29,9 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 
 
 ## Conference Publications
+* Ruben Becker, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.
+*Indexing Finite-State Automata Using Forward-Stable Partitions.* 
+31st International Symposium on String Processing and Information Retrieval (**SPIRE 2024**)
 
 * Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Riccardo Maso, Nicola Prezza.
 *Random Wheeler Automata.*

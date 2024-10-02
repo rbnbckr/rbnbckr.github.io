@@ -5,6 +5,7 @@ permalink: /service/
 ---
 
 ## Program Committee Memberships
+- 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
 - 33rd International Joint Conference on Artificial Intelligence (IJCAI '24)
 - 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '24)
 - 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '23)
@@ -25,6 +26,8 @@ permalink: /service/
 - Computational Geometry: Theory and Applications (2015)
 
 ### Conferences
+- SIAM Symposium on Simplicity in Algorithms (SOSA '25)
+-  Italian Conference on Theoretical Computer Science (ICTCS '25)
 - Symposium on Combinatorial Pattern Matching (CPM '24) 
 - Data Compression Conference (DCC '24)
 - International Joint Conference on Artificial Intelligence (IJCAI '24 x4)
@@ -39,8 +42,9 @@ permalink: /service/
 - International Symposium on Reliable Distributed Systems (SRDS '21)
 - IEEE Symposium on Foundations of Computer Science (FOCS '20)
 - International Symposium on Algorithms and Computation (ISAAC '19)
-- International Conference on Foundations of Software Science and Comp.\ Structures (FoSSaCS '19)
+- International Conference on Foundations of Software Science and Computation Structures (FoSSaCS '19)
 
 ### Grant Proposals
+- National Science Centre Poland (NCN), OPUS 27 Call for Research Projects
 - Israel Science Foundation (ISF), Personal Research Grant 2024
 - Vienna Science and Technology Fund (WWTF), Information and Communication Technology Call 2022

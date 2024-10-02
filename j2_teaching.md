@@ -9,6 +9,7 @@ permalink: /teaching/
 ### Ca' Foscari University of Venice, Venice, Italy
 
 - [**Randomized Methods in Computer Science**](https://www.unive.it/data/course/497968/programma) (20 hours) within PhD program in Computer Science, academic year 2023/2024.
+- [**Data Management**](https://www.unive.it/data/course/382977) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic 2024/2025.
 - [**Data Management**](https://www.unive.it/data/course/359102) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic 2023/2024.
 - [**Data Management**](https://www.unive.it/data/course/331478) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic year 2022/2023.
 
