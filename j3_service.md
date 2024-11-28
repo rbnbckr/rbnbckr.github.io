@@ -7,7 +7,7 @@ permalink: /service/
 
 
 ## Program Committee Memberships
-- 23rd Symposium on Experimental Algorithms (SEA 2025)
+- 23rd Symposium on Experimental Algorithms (SEA '25)
 - 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
 - 33rd International Joint Conference on Artificial Intelligence (IJCAI '24)
 - 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '24)
@@ -15,7 +15,7 @@ permalink: /service/
 
 
 ## Conference Organization
-- Chair of Organizing Committee for 23rd Symposium on Experimental Algorithms (SEA 2025)
+- Chair of Organizing Committee for 23rd Symposium on Experimental Algorithms (SEA '25)
 
 
 ## Reviewing Activity
@@ -28,7 +28,7 @@ permalink: /service/
 - European Journal of Operational Research (2019)
 - Journal of Symbolic Computation (2018)
 - ACM Journal of Experimental Algorithms (2018)
-- Computers \& Operations Research (2016)
+- Computers & Operations Research (2016)
 - Journal of Complexity (2016)
 - Computational Geometry: Theory and Applications (2015)
 
