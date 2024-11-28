@@ -4,11 +4,18 @@ title: Professional Activities
 permalink: /service/
 ---
 
+
+
 ## Program Committee Memberships
+- 23rd Symposium on Experimental Algorithms (SEA 2025)
 - 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
 - 33rd International Joint Conference on Artificial Intelligence (IJCAI '24)
 - 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '24)
 - 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '23)
+
+
+## Conference Organization
+- Chair of Organizing Committee for 23rd Symposium on Experimental Algorithms (SEA 2025)
 
 
 ## Reviewing Activity
@@ -27,9 +34,10 @@ permalink: /service/
 
 ### Conferences
 - SIAM Symposium on Simplicity in Algorithms (SOSA '25)
--  Italian Conference on Theoretical Computer Science (ICTCS '25)
+- International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
+-  Italian Conference on Theoretical Computer Science (ICTCS '24)
 - Symposium on Combinatorial Pattern Matching (CPM '24) 
-- Data Compression Conference (DCC '24)
+- Data Compression Conference (DCC '25 '24)
 - International Joint Conference on Artificial Intelligence (IJCAI '24 x4)
 - European Symposium on Algorithms (ESA '23 x2 '21 '18 '17 '15)
 - Symposium on Discrete Algorithms (SODA '22 x2 '21 '17)
