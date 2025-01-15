@@ -29,6 +29,10 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 
 
 ## Conference Publications
+* Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.
+*The Trie Measure, Revisited.*
+36th Annual Symposium on Combinatorial Pattern Matching (**CPM 2025**).
+
 * Ruben Becker, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.
 *Indexing Finite-State Automata Using Forward-Stable Partitions.* 
 31st International Symposium on String Processing and Information Retrieval (**SPIRE 2024**).
