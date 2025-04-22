@@ -29,6 +29,10 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 
 
 ## Conference Publications
+* Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.
+*Encoding Co-Lex Orders of Finite-State Automata in Linear Space*
+36th Annual Symposium on Combinatorial Pattern Matching (**CPM 2025**).
+
 * Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.
 *The Trie Measure, Revisited.*
 36th Annual Symposium on Combinatorial Pattern Matching (**CPM 2025**).

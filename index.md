@@ -13,7 +13,7 @@ See also my [dblp page](https://dblp.org/pid/139/0760.html), my [scopus profile]
 # Selected Publications
 
 * Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*
-SIAM Journal on Computing (**SICOMP**). 2024. To Appear.
+SIAM Journal on Computing (**SICOMP**). 2024.
 
 * Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. 
 *Sorting Finite Automata via Partition Refinement.* 

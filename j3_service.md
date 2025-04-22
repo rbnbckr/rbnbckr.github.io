@@ -7,16 +7,18 @@ permalink: /service/
 
 
 ## Program Committee Memberships
+- 36th International Symposium on Algorithms and Computation (ISAAC '25) 
 - 23rd Symposium on Experimental Algorithms (SEA '25)
 - 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
 - 33rd International Joint Conference on Artificial Intelligence (IJCAI '24)
 - 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '24)
 - 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '23)
 
-
 ## Conference Organization
 - Chair of Organizing Committee for 23rd Symposium on Experimental Algorithms (SEA '25)
 
+## Program Chairing
+- Workshop "25 Years of Compressed Self-Indexes" co-located with SEA '25
 
 ## Reviewing Activity
 
@@ -33,6 +35,7 @@ permalink: /service/
 - Computational Geometry: Theory and Applications (2015)
 
 ### Conferences
+- Symposium on Experimental Algorithms (SEA '25 x3)
 - SIAM Symposium on Simplicity in Algorithms (SOSA '25)
 - International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
 -  Italian Conference on Theoretical Computer Science (ICTCS '24)
