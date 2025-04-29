@@ -15,7 +15,7 @@ permalink: /service/
 - 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '23)
 
 ## Conference Organization
-- Chair of Organizing Committee for 23rd Symposium on Experimental Algorithms (SEA '25)
+- Chair of the Organizing Committee for 23rd Symposium on Experimental Algorithms (SEA '25)
 
 ## Program Chairing
 - Workshop "25 Years of Compressed Self-Indexes" co-located with SEA '25
@@ -35,23 +35,23 @@ permalink: /service/
 - Computational Geometry: Theory and Applications (2015)
 
 ### Conferences
-- Symposium on Experimental Algorithms (SEA '25 x3)
+- IEEE Symposium on Foundations of Computer Science (FOCS '25 '20)
 - SIAM Symposium on Simplicity in Algorithms (SOSA '25)
-- International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
--  Italian Conference on Theoretical Computer Science (ICTCS '24)
-- Symposium on Combinatorial Pattern Matching (CPM '24) 
+- Symposium on Experimental Algorithms (SEA '25 x3)
 - Data Compression Conference (DCC '25 '24)
 - International Joint Conference on Artificial Intelligence (IJCAI '24 x4)
-- European Symposium on Algorithms (ESA '23 x2 '21 '18 '17 '15)
-- Symposium on Discrete Algorithms (SODA '22 x2 '21 '17)
-- International Symposium on Symbolic and Algebraic Computation (ISSAC '22 '21 '20 '19)
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS '24 x3 '23 x3)
+- Symposium on Combinatorial Pattern Matching (CPM '24) 
+- International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
+-  Italian Conference on Theoretical Computer Science (ICTCS '24)
+- European Symposium on Algorithms (ESA '23 x2 '21 '18 '17 '15)
 - International Conference on Algorithms and Complexity (CIAC '23)
+- ACM-SIAM Symposium on Discrete Algorithms (SODA '22 x2 '21 '17)
+- International Symposium on Symbolic and Algebraic Computation (ISSAC '22 '21 '20 '19)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22)
 - International Symposium on Theoretical Aspects of Computer Science (STACS '21)
 - ACM Conference on Economics and Computation (EC '21)
 - International Symposium on Reliable Distributed Systems (SRDS '21)
-- IEEE Symposium on Foundations of Computer Science (FOCS '20)
 - International Symposium on Algorithms and Computation (ISAAC '19)
 - International Conference on Foundations of Software Science and Computation Structures (FoSSaCS '19)
 
