@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+*"Mensch, das bisschen Mathe muss man zu schätzen wissen..." &copy; Daniel Ebel aka Dendemann.*
+
 ## PhD thesis
 
 * Ruben Becker. *On Flows, Paths, Roots, and Zeros.* 2017. **PhD thesis**. **Saarland University**. Awarded with the Dr. Eduard Martin-Preis of the Faculty of Mathematics and Computer Science.
