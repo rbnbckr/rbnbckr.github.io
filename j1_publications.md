@@ -13,7 +13,9 @@ permalink: /publications/
 
 ## Journal Publications
 
-* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*
+* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *
+
+Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*
 
 SIAM Journal on Computing (**SICOMP**). 2024.
 
