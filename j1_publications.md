@@ -120,6 +120,10 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 *From DQBF to QBF by Dependency Elimination.* 
 Methoden und Beschreibungssprachen zur Modellierung und Verifikation von Schaltungen und Systemen (**MBMV 2018**)
 
+* Ruben Becker, Andreas Karrenbauer, Kurt Mehlhorn.
+*An Integer Interior Point Method for Min-Cost Flow using Arc Contractions and Deletions.*
+International Network Optimization Conference (**INOC 2017**).
+
 * Ruben Becker.
 *Towards Efficient Combinatorial Algorithms for the Min-Cost Flow Problem.* 
 Young Researcher Workshop on Automata, Languages and Programming (**YR-ICALP 2014**)
