@@ -8,7 +8,10 @@ permalink: /publications/
 
 ## PhD thesis
 
-* Ruben Becker. *[On Flows, Paths, Roots, and Zeros.](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/27162/1/thesis_revised.pdf)* 2017. **PhD thesis**. Awarded with the [Dr. Eduard Martin-Preis](https://www.unigesellschaft-saarland.de/eduard-martin-preis/preistraeger-2018-2019) of the Faculty of Mathematics and Computer Science of **Saarland University**, Saarbrücken, Germany.
+* Ruben Becker. \
+*[On Flows, Paths, Roots, and Zeros.](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/27162/1/thesis_revised.pdf)* \
+**PhD thesis**. 2017.\
+Awarded with the [Dr. Eduard Martin-Preis](https://www.unigesellschaft-saarland.de/eduard-martin-preis/preistraeger-2018-2019) of the Faculty of Mathematics and Computer Science of **Saarland University**, Saarbrücken, Germany.
 
 
 ## Journal Publications
