@@ -13,27 +13,29 @@ permalink: /publications/
 
 ## Journal Publications
 
-* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *
-
-Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*
-
+* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *\
+Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
 SIAM Journal on Computing (**SICOMP**). 2024.
 
-* Ruben Becker, Michael Sagraloff. *Counting Solutions of a Polynomial System Locally and Exactly.*
-
+* Ruben Becker, Michael Sagraloff.\ 
+*Counting Solutions of a Polynomial System Locally and Exactly.*\
 Journal of Symbolic Computation (**JSC**), 2024.
 
-* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert. *Fairness in Influence Maximization through Randomization.*
-
+* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert.\ 
+*Fairness in Influence Maximization through Randomization.*\
 Journal of Artificial Intelligence Research (**JAIR**). 2022.
 
-* Ruben Becker, Andreas Karrenbauer, Sebastian Krinninger, Christoph Lenzen. *Near-Optimal Approximate Shortest Paths and Transshipment in Distributed and Streaming Models.*
-
+* Ruben Becker, Andreas Karrenbauer, Sebastian Krinninger, Christoph Lenzen.\ 
+*Near-Optimal Approximate Shortest Paths and Transshipment in Distributed and Streaming Models.*\
 SIAM Journal on Computing (**SICOMP**). 2021.
 
-* Ruben Becker, Vincenzo Bonifaci, Andreas Karrenbauer, Pavel Kolev, Kurt Mehlhorn. *Two Results on Slime Mold Computations.* Theoretical Computer Science (**TCS-C**), 2019.
+* Ruben Becker, Vincenzo Bonifaci, Andreas Karrenbauer, Pavel Kolev, Kurt Mehlhorn.\ 
+*Two Results on Slime Mold Computations.*\ 
+Theoretical Computer Science (**TCS-C**), 2019.
 
-* Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap. *A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.* Journal of Symbolic Computation (**JSC**), 2018.
+* Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap.\ 
+*A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.*\ 
+Journal of Symbolic Computation (**JSC**), 2018.
 
 
 ## Conference Publications
