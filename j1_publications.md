@@ -17,11 +17,11 @@ permalink: /publications/
 *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
 SIAM Journal on Computing (**SICOMP**). 2024.
 
-* Ruben Becker, Michael Sagraloff.\ 
+* Ruben Becker, Michael Sagraloff.\
 *Counting Solutions of a Polynomial System Locally and Exactly.*\
 Journal of Symbolic Computation (**JSC**), 2024.
 
-* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert.\ 
+* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert.\
 *Fairness in Influence Maximization through Randomization.*\
 Journal of Artificial Intelligence Research (**JAIR**). 2022.
 
