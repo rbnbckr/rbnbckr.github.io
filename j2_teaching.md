@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching and Supervision
 permalink: /teaching/
 ---
 
@@ -41,8 +41,12 @@ permalink: /teaching/
 
 
 ## Student Supervision
+
+### Ca' Foscari University of Venice, Venice, Italy
+- Carlo Tosoni, PhD student, together with Nicola Prezza. Topic: *Compressed Indexes for Regular Languages with Applications to Computational Pan-genomics”*, since 2023.
+
 ### Gran Sasso Science Institute, L'Aquila, Italy
-- Sajjad Ghobadi, PhD student with Gianlorenzo D'Angelo. Thesis: *Fairness in Influence Maximization*, 2023.
+- Sajjad Ghobadi, PhD student, together with Gianlorenzo D'Angelo. Thesis: *Fairness in Influence Maximization*, 2023.
 
 ### Saarland University, Saarbrücken, Germany
 - Alexander Anisimov, Master student with Andreas Karrenbauer. Thesis: *Implementing a Gradient Descent Algorithm for Phase Unwrapping as an Undirected Transshipment Problem*, 2018.
