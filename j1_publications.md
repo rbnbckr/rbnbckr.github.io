@@ -31,6 +31,11 @@ SIAM Journal on Computing (**SICOMP**). 2021.
 
 
 ## Conference Publications
+
+* Ruben Becker, Giuseppa Castiglione, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza, Antonio Restivo, Brian Riccardi
+*Universally Wheeler Languages*
+29th International Conference on Developments in Language Theory (**DLT 2025**).
+
 * Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.
 *Encoding Co-Lex Orders of Finite-State Automata in Linear Space*
 36th Annual Symposium on Combinatorial Pattern Matching (**CPM 2025**).

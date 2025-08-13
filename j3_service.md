@@ -7,12 +7,13 @@ permalink: /service/
 
 
 ## Program Committee Memberships
-- 36th International Symposium on Algorithms and Computation (ISAAC '25) 
-- 23rd Symposium on Experimental Algorithms (SEA '25)
-- 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY '24)
-- 33rd International Joint Conference on Artificial Intelligence (IJCAI '24)
-- 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '24)
-- 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS '23)
+- 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
+- 36th International Symposium on Algorithms and Computation (ISAAC 2025) 
+- 23rd Symposium on Experimental Algorithms (SEA 2025)
+- 6th International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2024)
+- 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)
+- 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
+- 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
 
 ## Conference Organization
 - Chair of the Organizing Committee for 23rd Symposium on Experimental Algorithms (SEA '25)
