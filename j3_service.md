@@ -16,7 +16,7 @@ permalink: /service/
 - 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
 
 ## Chairing
-- Organizing Committee chair of the [23rd Symposium on Experimental Algorithms (SEA 2025)](https://regindex.github.io/sea2025.github.io/index.html)
+- Chair of the Organizing Committee of the [23rd Symposium on Experimental Algorithms (SEA 2025)](https://regindex.github.io/sea2025.github.io/index.html)
 - Chair of the Scientific Program of the Workshop ["25 Years of Compressed Self-Indexes"](https://regindex.github.io/sea2025.github.io/workshop.html) co-located with SEA 2025
 
 ## Reviewing Activity
