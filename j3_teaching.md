@@ -49,5 +49,5 @@ permalink: /teaching/
 - Sajjad Ghobadi, PhD student, together with Gianlorenzo D'Angelo. Thesis: *Fairness in Influence Maximization*, 2023.
 
 ### Saarland University, Saarbrücken, Germany
-- Alexander Anisimov, Master student with Andreas Karrenbauer. Thesis: *Implementing a Gradient Descent Algorithm for Phase Unwrapping as an Undirected Transshipment Problem*, 2018.
-- Adithya Vadapalli, Master student with Andreas Karrenbauer. Thesis: *Implementation and Experimental Evaluation of a Combinatorial Min-Cost Flow Algorithm*, 2015.
+- Alexander Anisimov, Master student, together with Andreas Karrenbauer. Thesis: *Implementing a Gradient Descent Algorithm for Phase Unwrapping as an Undirected Transshipment Problem*, 2018.
+- Adithya Vadapalli, Master student, together with Andreas Karrenbauer. Thesis: *Implementation and Experimental Evaluation of a Combinatorial Min-Cost Flow Algorithm*, 2015.
