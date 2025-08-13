@@ -12,20 +12,25 @@ See also my [dblp page](https://dblp.org/pid/139/0760.html), my [scopus profile]
 
 # Selected Publications
 
-* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*
+* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen.\
+*Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
 SIAM Journal on Computing (**SICOMP**). 2024.
 
-* Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. 
-*Sorting Finite Automata via Partition Refinement.* 
+* Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. \
+*Sorting Finite Automata via Partition Refinement.* \
 31st European Symposium on Algorithms (**ESA 2023**).
 
-* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert. *Fairness in Influence Maximization through Randomization.*
+* Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert. \
+*Fairness in Influence Maximization through Randomization.*\
 Journal of Artificial Intelligence Research (**JAIR**). 2022.
 
-* Ruben Becker, Andreas Karrenbauer, Sebastian Krinninger, Christoph Lenzen. *Near-Optimal Approximate Shortest Paths and Transshipment in Distributed and Streaming Models.*
+* Ruben Becker, Andreas Karrenbauer, Sebastian Krinninger, Christoph Lenzen. \
+*Near-Optimal Approximate Shortest Paths and Transshipment in Distributed and Streaming Models.*\
 SIAM Journal on Computing (**SICOMP**). 2021.
 
-* Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap. *A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.* Journal of Symbolic Computation (**JSC**), 2018.
+* Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap. \
+*A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.* \
+Journal of Symbolic Computation (**JSC**), 2018.
 
 
 <a href="https://tcs4f.org" 
