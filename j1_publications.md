@@ -13,8 +13,8 @@ permalink: /publications/
 
 ## Journal Publications
 
-* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen. *\
-Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
+* Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen.\
+*Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
 SIAM Journal on Computing (**SICOMP**). 2024.
 
 * Ruben Becker, Michael Sagraloff.\ 
@@ -25,54 +25,55 @@ Journal of Symbolic Computation (**JSC**), 2024.
 *Fairness in Influence Maximization through Randomization.*\
 Journal of Artificial Intelligence Research (**JAIR**). 2022.
 
-* Ruben Becker, Andreas Karrenbauer, Sebastian Krinninger, Christoph Lenzen.\ 
+* Ruben Becker, Andreas Karrenbauer, Sebastian Krinninger, Christoph Lenzen.\
 *Near-Optimal Approximate Shortest Paths and Transshipment in Distributed and Streaming Models.*\
 SIAM Journal on Computing (**SICOMP**). 2021.
 
-* Ruben Becker, Vincenzo Bonifaci, Andreas Karrenbauer, Pavel Kolev, Kurt Mehlhorn.\ 
-*Two Results on Slime Mold Computations.*\ 
+* Ruben Becker, Vincenzo Bonifaci, Andreas Karrenbauer, Pavel Kolev, Kurt Mehlhorn.\
+*Two Results on Slime Mold Computations.*\
 Theoretical Computer Science (**TCS-C**), 2019.
 
-* Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap.\ 
-*A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.*\ 
+* Ruben Becker, Michael Sagraloff, Vikram Sharma, Chee Yap.\
+*A Simple Near-Optimal Subdivision Algorithm for Complex Root Isolation based on the Pellet Test and Newton Iteration.*\
 Journal of Symbolic Computation (**JSC**), 2018.
 
 
 ## Conference Publications
 
-* Ruben Becker, Giuseppa Castiglione, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza, Antonio Restivo, Brian Riccardi
-*Universally Wheeler Languages.*
+* Ruben Becker, Giuseppa Castiglione, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza, Antonio Restivo, Brian Riccardi.\
+*Universally Wheeler Languages.*\
 29th International Conference on Developments in Language Theory (**DLT 2025**).
 
-* Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.
-*Encoding Co-Lex Orders of Finite-State Automata in Linear Space*
+* Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.\
+*Encoding Co-Lex Orders of Finite-State Automata in Linear Space*\
 36th Annual Symposium on Combinatorial Pattern Matching (**CPM 2025**).
 
-* Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.
-*The Trie Measure, Revisited.*
+* Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.\
+*The Trie Measure, Revisited.*\
 36th Annual Symposium on Combinatorial Pattern Matching (**CPM 2025**).
 
-* Ruben Becker, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.
-*Indexing Finite-State Automata Using Forward-Stable Partitions.* 
+* Ruben Becker, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.\
+*Indexing Finite-State Automata Using Forward-Stable Partitions.*\
 31st International Symposium on String Processing and Information Retrieval (**SPIRE 2024**).
 
-* Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Riccardo Maso, Nicola Prezza.
-*Random Wheeler Automata.*
+* Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Riccardo Maso, Nicola Prezza.\
+*Random Wheeler Automata.*\
 35th Annual Symposium on Combinatorial Pattern Matching (**CPM 2024**).
 
-* Ruben Becker, Matteo Canton, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.
-*Sketching and Streaming for Dictionary Compression.*
+* Ruben Becker, Matteo Canton, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.\
+*Sketching and Streaming for Dictionary Compression.*\
 34th Data Compression Conference (**DCC 2024**).
 
-* Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. 
-*Sorting Finite Automata via Partition Refinement.* 
+* Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza.\
+*Sorting Finite Automata via Partition Refinement.*\
 31st European Symposium on Algorithms (**ESA 2023**).
 
-* Ruben Becker, Arnaud Casteigts, Pierluigi Crescenzi, Bojana Kodric, Michael Raskin, Malte Renken, Viktor Zamaraev. 
-*Giant Components in Random Temporal Graphs.* International Conference on Randomization and Computation (**RANDOM 2023**).
+* Ruben Becker, Arnaud Casteigts, Pierluigi Crescenzi, Bojana Kodric, Michael Raskin, Malte Renken, Viktor Zamaraev.\
+*Giant Components in Random Temporal Graphs.*\
+International Conference on Randomization and Computation (**RANDOM 2023**).
 
-* Ruben Becker, Pierluigi Crescenzi, Antonio Cruciani, Bojana Kodric. 
-*Proxying Betweenness Centrality Rankings in Temporal Networks.* 
+* Ruben Becker, Pierluigi Crescenzi, Antonio Cruciani, Bojana Kodric.\
+*Proxying Betweenness Centrality Rankings in Temporal Networks.*\
 21st Symposium on Experimental Algorithms (**SEA 2023**).
 
 * Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi. *Improving Fairness in Information Exposure by Adding Links.*
