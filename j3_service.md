@@ -6,7 +6,7 @@ permalink: /service/
 
 
 
-## Program Committee Memberships
+### Program Committee Memberships
 - 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
 - 36th International Symposium on Algorithms and Computation (ISAAC 2025) 
 - 23rd Symposium on Experimental Algorithms (SEA 2025)
@@ -15,13 +15,13 @@ permalink: /service/
 - 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
 - 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
 
-## Chairing
+### Chairing
 - Chair of the Organizing Committee of the [23rd Symposium on Experimental Algorithms (SEA 2025)](https://regindex.github.io/sea2025.github.io/index.html)
 - Chair of the Scientific Program of the Workshop ["25 Years of Compressed Self-Indexes"](https://regindex.github.io/sea2025.github.io/workshop.html) co-located with SEA 2025
 
-## Reviewing Activity
+### Reviewing Activity
 
-### Journals
+#### Journals
 - Journal of Artificial Intelligence Research (2022)
 - ACM Transactions on Information Systems (2021)
 - Information Processing Letters (2020)
@@ -33,7 +33,7 @@ permalink: /service/
 - Journal of Complexity (2016)
 - Computational Geometry: Theory and Applications (2015)
 
-### Conferences
+#### Conferences
 - IEEE Symposium on Foundations of Computer Science (FOCS '25 '20)
 - SIAM Symposium on Simplicity in Algorithms (SOSA '25)
 - Symposium on Experimental Algorithms (SEA '25 x3)
@@ -54,7 +54,7 @@ permalink: /service/
 - International Symposium on Algorithms and Computation (ISAAC '19)
 - International Conference on Foundations of Software Science and Computation Structures (FoSSaCS '19)
 
-### Grant Proposals
+#### Grant Proposals
 - National Science Centre Poland (NCN), OPUS 27 Call for Research Projects
 - Israel Science Foundation (ISF), Personal Research Grant 2024
 - Vienna Science and Technology Fund (WWTF), Information and Communication Technology Call 2022

@@ -6,7 +6,7 @@ permalink: /publications/
 
 *"Mensch, das bisschen Mathe muss man zu schätzen wissen..." &copy; Daniel Ebel aka Dendemann.*
 
-## PhD thesis
+### PhD thesis
 
 * Ruben Becker. 
 *[On Flows, Paths, Roots, and Zeros.](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/27162/1/thesis_revised.pdf)* 
@@ -14,7 +14,7 @@ permalink: /publications/
 Awarded with the [Dr. Eduard Martin-Preis](https://www.unigesellschaft-saarland.de/eduard-martin-preis/preistraeger-2018-2019) of the Faculty of Mathematics and Computer Science of **Saarland University**, Saarbrücken, Germany.
 
 
-## Journal Publications
+### Journal Publications
 
 * Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen.\
 *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
@@ -41,7 +41,7 @@ Theoretical Computer Science (**TCS-C**), 2019.
 Journal of Symbolic Computation (**JSC**), 2018.
 
 
-## Conference Publications
+### Conference Publications
 
 * Ruben Becker, Giuseppa Castiglione, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza, Antonio Restivo, Brian Riccardi.\
 *Universally Wheeler Languages.*\
@@ -143,7 +143,7 @@ International Conference on Randomization and Computation (**RANDOM 2023**).
 *A Simple Efficient Interior Point Method for Min-Cost Flow.* \
 25th International Symposium on Algorithms and Computation (**ISAAC 2014**).
 
-## Brief Peer-Reviewed Contributions
+### Brief Peer-Reviewed Contributions
 
 * Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti, Nicola Prezza.\
 *Testing Wheelerness of Regular Languages.* \
