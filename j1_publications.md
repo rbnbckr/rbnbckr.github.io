@@ -92,7 +92,7 @@ International Conference on Randomization and Computation (**RANDOM 2023**).
 30th International Symposium on String Processing and Information Retrieval (**SPIRE 2023**).
 
 * Ruben Becker, Gianlorenzo D’Angelo, Sajjad Ghobadi, Hugo Gilbert.\
-*Fairness in Influence Maximization through Randomization.*\ 
+*Fairness in Influence Maximization through Randomization.*\
 35th AAAI Conference on Artificial Intelligence (**AAAI 2021**).
 
 * Ruben Becker, Gianlorenzo D’Angelo, Hugo Gilbert.\
