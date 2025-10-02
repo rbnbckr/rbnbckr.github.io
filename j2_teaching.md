@@ -43,7 +43,7 @@ permalink: /teaching/
 ### Student Supervision
 
 #### Ca' Foscari University of Venice, Venice, Italy
-- Carlo Tosoni, PhD student, together with Nicola Prezza. Topic: *Compressed Indexes for Regular Languages with Applications to Computational Pan-genomics”*, since 2023.
+- [Carlo Tosoni](carlotosoni.eu), PhD student, together with Nicola Prezza. Topic: *Compressed Indexes for Regular Languages with Applications to Computational Pan-genomics”*, since 2023.
 
 #### Gran Sasso Science Institute, L'Aquila, Italy
 - Sajjad Ghobadi, PhD student, together with Gianlorenzo D'Angelo. Thesis: *Fairness in Influence Maximization*, 2023.
