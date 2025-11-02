@@ -7,24 +7,37 @@ permalink: /teaching/
 ### Lectures
 
 #### Ca' Foscari University of Venice, Venice, Italy
+
+##### Academic Year 2025/2026
 - [**Algorithms and Data Structures**](https://www.unive.it/data/insegnamento/608557) (48 hours) within Bachelor's Programme *Computer Science*, academic year 2025/2026.
 - [**Lab of Software Project Development**](https://www.unive.it/data/course/595148) (30 hours) within Bachelor's Programme *Digital Management*, academic year 2025/2026.
-- **Data Management** (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic years [2025/2026](https://www.unive.it/data/insegnamento/450086), [2024/2025](https://www.unive.it/data/insegnamento/382977), [2023/2024](https://www.unive.it/data/insegnamento/359102), [2022/2023](https://www.unive.it/data/insegnamento/331478).
+- [**Data Management**](https://www.unive.it/data/insegnamento/450086) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
+
+##### Academic Year 2024/2025
+- [**Data Management**](https://www.unive.it/data/insegnamento/382977) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
+
+##### Academic Year 2023/2024
 - [**Randomized Methods in Computer Science**](https://www.unive.it/data/course/497968/programma) (20 hours) within PhD program in Computer Science, academic year 2023/2024.
-<!-- - [**Data Management**](https://www.unive.it/data/course/382977) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic year 2024/2025.
-- [**Data Management**](https://www.unive.it/data/course/359102) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic year 2023/2024.
-- [**Data Management**](https://www.unive.it/data/course/331478) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic year 2022/2023.
- -->
+- [**Data Management**](https://www.unive.it/data/insegnamento/359102) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
+
+##### Academic Year 2022/2023
+- [**Data Management**](https://www.unive.it/data/insegnamento/331478) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
+
 
 #### Gran Sasso Science Institute, L'Aquila, Italy
 
-- **Multiplicative Weights Update** (8 hours) within PhD program in Computer Science, academic year 2021/2022
-- **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric, academic year 2021/2022.
-- **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric, academic year 2021/2022.
-- **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric, academic year 2020/2021.
-- **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric, academic year 2020/2021.
-- **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric, academic year 2019/2020.
-- **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric, academic year 2019/2020.
+##### Academic Year 2021/2022
+- **Multiplicative Weights Update** (8 hours) within PhD program in Computer Science.
+- **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric.
+- **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric.
+
+##### Academic Year 2020/2021
+- **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric.
+- **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric.
+
+##### Academic Year 2019/2020
+- **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric.
+- **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric.
 
 
 ### Seminar Organization
