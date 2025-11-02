@@ -7,12 +7,14 @@ permalink: /teaching/
 ### Lectures
 
 #### Ca' Foscari University of Venice, Venice, Italy
-
+- [**Algorithms and Data Structures**](https://www.unive.it/data/insegnamento/608557) (48 hours) within Bachelor's Programme *Computer Science*, academic year 2025/2026.
+- [**Lab of Software Project Development**](https://www.unive.it/data/course/595148) (30 hours) within Bachelor's Programme *Digital Management*, academic year 2025/2026.
+- **Data Management** (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic years [2025/2026](https://www.unive.it/data/insegnamento/450086), [2024/2025](https://www.unive.it/data/insegnamento/382977), [2023/2024](https://www.unive.it/data/insegnamento/359102), [2022/2023](https://www.unive.it/data/insegnamento/331478).
 - [**Randomized Methods in Computer Science**](https://www.unive.it/data/course/497968/programma) (20 hours) within PhD program in Computer Science, academic year 2023/2024.
-- [**Data Management**](https://www.unive.it/data/course/382977) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic year 2024/2025.
+<!-- - [**Data Management**](https://www.unive.it/data/course/382977) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic year 2024/2025.
 - [**Data Management**](https://www.unive.it/data/course/359102) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic year 2023/2024.
 - [**Data Management**](https://www.unive.it/data/course/331478) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*, academic year 2022/2023.
-
+ -->
 
 #### Gran Sasso Science Institute, L'Aquila, Italy
 
