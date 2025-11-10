@@ -16,6 +16,10 @@ Awarded with the [Dr. Eduard Martin-Preis](https://www.unigesellschaft-saarland.
 
 ### Journal Publications
 
+* Ruben Becker, Arnaud Casteigts, Pierluigi Crescenzi, Bojana Kodric, Michael Raskin, Malte Renken, Viktor Zamaraev.\
+*Giant Components in Random Temporal Graphs.*\
+SIAM Journal on Discrete Mathematics (**SIDMA**). To appear.
+
 * Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen.\
 *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
 SIAM Journal on Computing (**SICOMP**). 2024.
@@ -42,6 +46,10 @@ Journal of Symbolic Computation (**JSC**), 2018.
 
 
 ### Conference Publications
+
+* Ruben Becker, Bojana Kodric, Cosimo Vinci.\
+*Greedily Maximizing Ex-Ante Fairness.*\
+40th AAAI Conference on Artificial Intelligence (**AAAI 2026**). To appear.
 
 * Ruben Becker, Giuseppa Castiglione, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza, Antonio Restivo, Brian Riccardi.\
 *Universally Wheeler Languages.*\

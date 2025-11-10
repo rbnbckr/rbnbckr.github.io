@@ -9,15 +9,15 @@ permalink: /teaching/
 ### Ca' Foscari University of Venice, Venice, Italy
 
 #### Academic Year 2025/2026
-- [**Algorithms and Data Structures**](https://www.unive.it/data/insegnamento/608557) (48 hours) within Bachelor's Programme *Computer Science*, academic year 2025/2026.
-- [**Lab of Software Project Development**](https://www.unive.it/data/course/595148) (30 hours) within Bachelor's Programme *Digital Management*, academic year 2025/2026.
+- [**Algorithms and Data Structures**](https://www.unive.it/data/insegnamento/608557) (48 hours) within Bachelor's Programme *Computer Science*.
+- [**Lab of Software Project Development**](https://www.unive.it/data/course/595148) (30 hours) within Bachelor's Programme *Digital Management*.
 - [**Data Management**](https://www.unive.it/data/insegnamento/450086) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
 #### Academic Year 2024/2025
 - [**Data Management**](https://www.unive.it/data/insegnamento/382977) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
 #### Academic Year 2023/2024
-- [**Randomized Methods in Computer Science**](https://www.unive.it/data/course/497968/programma) (20 hours) within PhD program in Computer Science, academic year 2023/2024.
+- [**Randomized Methods in Computer Science**](https://www.unive.it/data/course/497968/programma) (20 hours) within PhD program in Computer Science.
 - [**Data Management**](https://www.unive.it/data/insegnamento/359102) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
 #### Academic Year 2022/2023
