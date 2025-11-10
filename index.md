@@ -8,7 +8,8 @@ Hi! I am Assistant Professor (RTD-A) in Computer Science at **Ca' Foscari Univer
 
 See also my [dblp page](https://dblp.org/pid/139/0760.html), my [scopus profile](https://www.scopus.com/authid/detail.uri?authorId=56493938500), my [orcid ID](https://orcid.org/0000-0002-3495-3753), and my [google scholar profile](https://scholar.google.it/citations?user=AVQg7FMAAAAJ&hl=en&oi=ao).
 
-## Selected Publications ([complete list](https://rbnbckr.github.io/publications/))
+## Selected Publications 
+*(Go here for a [complete list](https://rbnbckr.github.io/publications/)).*
 
 * Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen.\
 *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
