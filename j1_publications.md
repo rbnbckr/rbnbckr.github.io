@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-*"Mensch, das bisschen Mathe muss man zu schätzen wissen..." &copy; Daniel Ebel aka Dendemann.*
+*"Mensch, das bisschen Mathe muss man zu schätzen wissen..." &copy; Daniel Ebel.*
 
 ### PhD thesis
 
