@@ -4,6 +4,8 @@ title: Teaching and Supervision
 permalink: /teaching/
 ---
 
+*Nothing that you will learn in the course of your studies will be of the slightest possible use to you in after life, save only this, that if you work hard and intelligently you should be able to detect when a man is talking rot, and that, in my view, is the main, if not the sole, purpose of education. &copy; John Alexander Smith.*
+
 ## Lectures
 
 ### Ca' Foscari University of Venice, Venice, Italy
