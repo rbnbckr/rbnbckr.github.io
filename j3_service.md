@@ -7,6 +7,7 @@ permalink: /service/
 
 
 ### Program Committee Memberships
+- 32nd International European Conference on Parallel and Distributed Computing (EURO-PAR 2026)
 - 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
 - 36th International Symposium on Algorithms and Computation (ISAAC 2025) 
 - 23rd Symposium on Experimental Algorithms (SEA 2025)
