@@ -16,6 +16,10 @@ Awarded with the [Dr. Eduard Martin-Preis](https://www.unigesellschaft-saarland.
 
 ### Journal Publications
 
+* Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Tomasz Kociumaka, Bojana Kodric, Alberto Policriti, Nicola Prezza.\
+*On the Complexity of Computing the Co-lexicographic Width of a Regular Language.*\
+Journal of Computer and System Sciences (**JCSS**). To appear.
+
 * Ruben Becker, Arnaud Casteigts, Pierluigi Crescenzi, Bojana Kodric, Michael Raskin, Malte Renken, Viktor Zamaraev.\
 *Giant Components in Random Temporal Graphs.*\
 SIAM Journal on Discrete Mathematics (**SIDMA**). To appear.
