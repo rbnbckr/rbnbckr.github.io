@@ -51,9 +51,13 @@ Journal of Symbolic Computation (**JSC**), 2018.
 
 ### Conference Publications
 
+* Ruben Becker, Davide Cenzato, Travis Gagie, Ragnar Groot Koerkamp, Sung-Hwan Kim, Giovanni Manzini, Nicola Prezza.\
+*Compressing Suffix Trees by Path Decompositions.*\
+53rd EATCS International Colloquium on Automata, Languages, and Programming (**ICALP 2026**) To appear.
+
 * Ruben Becker, Bojana Kodric, Cosimo Vinci.\
 *Greedily Maximizing Ex-Ante Fairness.*\
-40th AAAI Conference on Artificial Intelligence (**AAAI 2026**). To appear.
+40th AAAI Conference on Artificial Intelligence (**AAAI 2026**).
 
 * Ruben Becker, Giuseppa Castiglione, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza, Antonio Restivo, Brian Riccardi.\
 *Universally Wheeler Languages.*\
