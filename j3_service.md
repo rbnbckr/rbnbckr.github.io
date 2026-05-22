@@ -7,6 +7,7 @@ permalink: /service/
 
 
 ### Program Committee Memberships
+- SIAM Symposium on Simplicity in Algorithms (SOSA 2027)
 - 32nd International European Conference on Parallel and Distributed Computing (EURO-PAR 2026)
 - 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
 - 36th International Symposium on Algorithms and Computation (ISAAC 2025) 
@@ -23,6 +24,8 @@ permalink: /service/
 ### Reviewing Activity
 
 #### Journals
+- Artificial Intelligence (2026)
+- Theory of Computing Systems (2025)
 - Journal of Artificial Intelligence Research (2022)
 - ACM Transactions on Information Systems (2021)
 - Information Processing Letters (2020)
@@ -35,7 +38,12 @@ permalink: /service/
 - Computational Geometry: Theory and Applications (2015)
 
 #### Conferences
+- European Symposium on Algorithms (ESA '26 x2, '23 x2 '21 '18 '17 '15)
+- AAAI Conference on Artificial Intelligence (AAAI '26 x4)
+- International Symposium on Mathematical Foundations of Computer Science (MFCS '26)
+- European Conference on Parallel and Distributed Computing (EURO-PAR '26 x5)
 - IEEE Symposium on Foundations of Computer Science (FOCS '25 '20)
+- International Symposium on Algorithms and Computation (ISAAC ‘25 x5)
 - SIAM Symposium on Simplicity in Algorithms (SOSA '25)
 - Symposium on Experimental Algorithms (SEA '25 x3)
 - Data Compression Conference (DCC '25 '24)

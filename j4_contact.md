@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 
-- **Room**: Building Z, Studio ZB17
+- **Room**: Building Epsilon (first floor), Studio 108
 - **Address**: Via Torino 155, 30172 Mestre (VE), Italy
 - **e-mail**: rubensimon.becker [at] unive.it
 - [**Department of Environmental Sciences, Informatics and Statistics**](https://www.unive.it/pag/28183)

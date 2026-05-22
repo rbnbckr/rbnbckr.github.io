@@ -18,11 +18,11 @@ Awarded with the [Dr. Eduard Martin-Preis](https://www.unigesellschaft-saarland.
 
 * Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Tomasz Kociumaka, Bojana Kodric, Alberto Policriti, Nicola Prezza.\
 *On the Complexity of Computing the Co-lexicographic Width of a Regular Language.*\
-Journal of Computer and System Sciences (**JCSS**). To appear.
+Journal of Computer and System Sciences (**JCSS**). 2026.
 
 * Ruben Becker, Arnaud Casteigts, Pierluigi Crescenzi, Bojana Kodric, Michael Raskin, Malte Renken, Viktor Zamaraev.\
 *Giant Components in Random Temporal Graphs.*\
-SIAM Journal on Discrete Mathematics (**SIDMA**). To appear.
+SIAM Journal on Discrete Mathematics (**SIDMA**). 2026.
 
 * Ruben Becker, Yuval Emek, Mohsen Ghaffari, Christoph Lenzen.\
 *Decentralized Low Stretch Trees via Low Diameter Graph Decompositions.*\
@@ -53,7 +53,7 @@ Journal of Symbolic Computation (**JSC**), 2018.
 
 * Ruben Becker, Davide Cenzato, Travis Gagie, Ragnar Groot Koerkamp, Sung-Hwan Kim, Giovanni Manzini, Nicola Prezza.\
 *Compressing Suffix Trees by Path Decompositions.*\
-53rd EATCS International Colloquium on Automata, Languages, and Programming (**ICALP 2026**) To appear.
+53rd EATCS International Colloquium on Automata, Languages, and Programming (**ICALP 2026**). To appear.
 
 * Ruben Becker, Bojana Kodric, Cosimo Vinci.\
 *Greedily Maximizing Ex-Ante Fairness.*\
