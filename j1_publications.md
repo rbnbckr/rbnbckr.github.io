@@ -51,6 +51,10 @@ Journal of Symbolic Computation (**JSC**), 2018.
 
 ### Conference Publications
 
+* Ruben Becker, Davide Cenzato, Nicola Prezza, Daniel Puttini.\
+*On Computing Minimum Wheeler DFA From Their Language.*\
+34th European Symposium on Algorithms (**ESA 2026**). To appear.
+
 * Ruben Becker, Davide Cenzato, Travis Gagie, Ragnar Groot Koerkamp, Sung-Hwan Kim, Giovanni Manzini, Nicola Prezza.\
 *Compressing Suffix Trees by Path Decompositions.*\
 53rd EATCS International Colloquium on Automata, Languages, and Programming (**ICALP 2026**). To appear.
