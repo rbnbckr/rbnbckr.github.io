@@ -8,6 +8,7 @@ permalink: /service/
 
 ### Program Committee Memberships
 - SIAM Symposium on Simplicity in Algorithms (SOSA 2027)
+- 41st AAAI Conference on Artificial Intelligence (AAAI 2027)
 - 32nd International European Conference on Parallel and Distributed Computing (EURO-PAR 2026)
 - 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
 - 36th International Symposium on Algorithms and Computation (ISAAC 2025) 
@@ -24,6 +25,7 @@ permalink: /service/
 ### Reviewing Activity
 
 #### Journals
+- Swarm and Evolutionary Computation (2026)
 - Artificial Intelligence (2026)
 - Theory of Computing Systems (2025)
 - Journal of Artificial Intelligence Research (2022)

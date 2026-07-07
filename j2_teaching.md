@@ -11,7 +11,7 @@ permalink: /teaching/
 ### Ca' Foscari University of Venice, Venice, Italy
 
 #### Academic Year 2026/2027
-- [**Advanced Algorithms**](https://www.unive.it/data/insegnamento/746653) (10 hours) within PhD program in Computer Science.
+- [**Advanced Algorithms**](https://www.unive.it/data/insegnamento/746653) (10/20 hours) within PhD program in Computer Science co-taught with Nicola Prezza.
 - [**Algorithmic Techniques for AI, Games, and Networks**](https://www.unive.it/data/insegnamento/693823) (48 hours) within Bachelor's and Master's Programme *Computer Science*.
 - [**Algorithms and Data Structures 2**](https://www.unive.it/data/insegnamento/573242) (48 hours) within Bachelor's Programme *Computer Science*.
 - [**Data Management**](https://www.unive.it/data/insegnamento/506845) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
