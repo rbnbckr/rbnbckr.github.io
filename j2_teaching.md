@@ -8,6 +8,12 @@ permalink: /teaching/
 
 ## Lectures
 
+### The Cyprus Institute, Nicosia, Cyprus
+
+#### Academic Year 2026/2027
+- [**Frontiers & Methodologies in Computational Sciences**](https://www.cyi.ac.cy/index.php/starc/research-themes/art-and-architecture/cos-500-frontiers-methodologies-in-computational-sciences.html\) (12/42 hours) within PhD program in Computational Sciences. 
+
+
 ### Ca' Foscari University of Venice, Venice, Italy
 
 #### Academic Year 2026/2027

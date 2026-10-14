@@ -8,6 +8,7 @@ permalink: /service/
 
 ### Program Committee Memberships
 - SIAM Symposium on Simplicity in Algorithms (SOSA 2027)
+- 38th Annual Symposium on Combinatorial Pattern Matching (CPM 2027)
 - 41st AAAI Conference on Artificial Intelligence (AAAI 2027)
 - 32nd International European Conference on Parallel and Distributed Computing (EURO-PAR 2026)
 - 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
