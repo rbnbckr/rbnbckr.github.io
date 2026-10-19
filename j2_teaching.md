@@ -22,8 +22,6 @@ permalink: /teaching/
 - [**Algorithms and Data Structures 2**](https://www.unive.it/data/insegnamento/573242) (48 hours) within Bachelor's Programme *Computer Science*.
 - [**Data Management**](https://www.unive.it/data/insegnamento/506845) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
-
-
 #### Academic Year 2025/2026
 - [**Algorithms and Data Structures 2**](https://www.unive.it/data/insegnamento/608557) (48 hours) within Bachelor's Programme *Computer Science*.
 - [**Lab of Software Project Development**](https://www.unive.it/data/course/595148) (30 hours) within Bachelor's Programme *Digital Management*.
