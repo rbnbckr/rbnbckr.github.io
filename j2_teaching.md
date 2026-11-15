@@ -8,48 +8,52 @@ permalink: /teaching/
 
 ## Lectures
 
-### The Cyprus Institute, Nicosia, Cyprus
+### Academic Year 2026/2027
 
-#### Academic Year 2026/2027
-- [**Frontiers & Methodologies in Computational Sciences**](https://www.cyi.ac.cy/index.php/starc/research-themes/art-and-architecture/cos-500-frontiers-methodologies-in-computational-sciences.html\) (12/42 hours) within PhD program in Computational Sciences. 
-
-
-### Ca' Foscari University of Venice, Venice, Italy
-
-#### Academic Year 2026/2027
-- [**Advanced Algorithms**](https://www.unive.it/data/insegnamento/746653) (10/20 hours) within PhD program in Computer Science co-taught with Nicola Prezza.
+#### Ca' Foscari University of Venice, Venice, Italy
+- [**Advanced Algorithms**](https://www.unive.it/data/insegnamento/746653) (10/20 hours) within PhD program in Computer Science, co-taught with Nicola Prezza.
 - [**Algorithmic Techniques for AI, Games, and Networks**](https://www.unive.it/data/insegnamento/693823) (48 hours) within Bachelor's and Master's Programme *Computer Science*.
 - [**Algorithms and Data Structures 2**](https://www.unive.it/data/insegnamento/573242) (48 hours) within Bachelor's Programme *Computer Science*.
 - [**Data Management**](https://www.unive.it/data/insegnamento/506845) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
-#### Academic Year 2025/2026
+#### The Cyprus Institute, Nicosia, Cyprus
+- [**Frontiers & Methodologies in Computational Sciences**](https://www.cyi.ac.cy/index.php/starc/research-themes/art-and-architecture/cos-500-frontiers-methodologies-in-computational-sciences.html) (12/42 hours) within PhD program in Computational Sciences, co-taught with Solon P. Pissis and others.
+
+#### Scuola Superiore Universitaria "di Toppo Wassermann" , University of Udine, Udine, Italy
+- [**Compression and Randomization**] (8/28 hours) Disciplinary course within the Scientific-Economic Class, co-taught with Alberto Policriti and Nicola Prezza.
+
+
+### Academic Year 2025/2026 <span style="font-size: 0.85em">(all Ca' Foscari University of Venice, Venice, Italy)</span>
 - [**Algorithms and Data Structures 2**](https://www.unive.it/data/insegnamento/608557) (48 hours) within Bachelor's Programme *Computer Science*.
 - [**Lab of Software Project Development**](https://www.unive.it/data/course/595148) (30 hours) within Bachelor's Programme *Digital Management*.
 - [**Data Management**](https://www.unive.it/data/insegnamento/450086) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
-#### Academic Year 2024/2025
+
+### Academic Year 2024/2025 <span style="font-size: 0.85em">(Ca' Foscari University of Venice, Venice, Italy)</span>
 - [**Data Management**](https://www.unive.it/data/insegnamento/382977) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
-#### Academic Year 2023/2024
+
+### Academic Year 2023/2024 <span style="font-size: 0.85em">(all Ca' Foscari University of Venice, Venice, Italy)</span>
 - [**Randomized Methods in Computer Science**](https://www.unive.it/data/course/497968/programma) (20 hours) within PhD program in Computer Science.
 - [**Data Management**](https://www.unive.it/data/insegnamento/359102) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
-#### Academic Year 2022/2023
+
+### Academic Year 2022/2023 <span style="font-size: 0.85em">(Ca' Foscari University of Venice, Venice, Italy)</span>
 - [**Data Management**](https://www.unive.it/data/insegnamento/331478) (30 hours) within Bachelor's Degree Programme *Economics, Markets and Finance*.
 
 
-### Gran Sasso Science Institute, L'Aquila, Italy
-
-#### Academic Year 2021/2022
+### Academic Year 2021/2022 <span style="font-size: 0.85em">(all Gran Sasso Science Institute, L'Aquila, Italy)</span>
 - **Multiplicative Weights Update** (8 hours) within PhD program in Computer Science.
 - **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric.
 - **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric.
 
-#### Academic Year 2020/2021
+
+### Academic Year 2020/2021 <span style="font-size: 0.85em">(all Gran Sasso Science Institute, L'Aquila, Italy)</span>
 - **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric.
 - **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric.
 
-#### Academic Year 2019/2020
+
+### Academic Year 2019/2020 <span style="font-size: 0.85em">(all Gran Sasso Science Institute, L'Aquila, Italy)</span>
 - **Randomized Algorithms** (7/14 hours) within PhD program in Computer Science, co-taught with Bojana Kodric.
 - **Design and Analysis of Algorithms** (8/30 hours) within PhD program in Computer Science, co-taught with Michele Flammini and Bojana Kodric.
 
@@ -72,7 +76,7 @@ permalink: /teaching/
 ## Student Supervision
 
 ### Ca' Foscari University of Venice, Venice, Italy
-- [Carlo Tosoni](http://www.carlotosoni.eu), PhD student, together with Nicola Prezza. Topic: *Compressed Indexes for Regular Languages with Applications to Computational Pan-genomics”*, since 2023.
+- [Carlo Tosoni](http://www.carlotosoni.eu), PhD student, together with Nicola Prezza. Topic: *Compressed Indexes for Regular Languages with Applications to Computational Pan-genomics*, since 2023.
 
 ### Gran Sasso Science Institute, L'Aquila, Italy
 - Sajjad Ghobadi, PhD student, together with Gianlorenzo D'Angelo. Thesis: *Fairness in Influence Maximization*, 2023.
