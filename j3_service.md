@@ -10,6 +10,7 @@ permalink: /service/
 - 44th International Symposium on Theoretical Aspects of Computer Science (STACS 2027) 
 - SIAM Symposium on Simplicity in Algorithms (SOSA 2027)
 - 41st AAAI Conference on Artificial Intelligence (AAAI 2027)
+- 25th Symposium on Experimental Algorithms (SEA 2027)
 - 38th Annual Symposium on Combinatorial Pattern Matching (CPM 2027)
 - 32nd International European Conference on Parallel and Distributed Computing (EURO-PAR 2026)
 - 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
